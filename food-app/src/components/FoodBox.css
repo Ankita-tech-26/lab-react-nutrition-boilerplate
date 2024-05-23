@@ -1,0 +1,38 @@
+.food-box {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .food-image img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .food-details p {
+    margin-top: 10px;
+  }
+  
+  .quantity-section {
+    display: flex;
+    align-items: center;
+  }
+  
+  .quantity-input {
+    width: 50px;
+    padding: 5px;
+    margin-right: 10px;
+  }
+  
+  .add-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .add-button:hover {
+    background-color: #0056b3;
+  }
+  
